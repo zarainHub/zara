@@ -1,7 +1,7 @@
 # zara
 Repository for practice
 
-#Step 1
+# Step 1
 
 Git push/pull
 
